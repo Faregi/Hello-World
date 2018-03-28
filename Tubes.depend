@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1520741567 source:d:\c++\tubes\tubes\main.cpp
+	"list.h"
+
+1520740381 d:\c++\tubes\tubes\list.h
+	<conio.h>
+	<iostream>
+	<stdio.h>
+
+1520741410 source:d:\c++\tubes\tubes\emp.cpp
+	"list.h"
+
+1520786132 source:d:\data kuliah\data kuliah smt2\algoritma dan struktur data\tubes 1\tubes\tubes\emp.cpp
+	"list.h"
+
+1520785280 d:\data kuliah\data kuliah smt2\algoritma dan struktur data\tubes 1\tubes\tubes\list.h
+	<conio.h>
+	<iostream>
+	<stdio.h>
+
+1520783737 source:d:\data kuliah\data kuliah smt2\algoritma dan struktur data\tubes 1\tubes\tubes\main.cpp
+	"list.h"
+
